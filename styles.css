@@ -1,4 +1,5 @@
-#h-body {
+#r-body {
   background-color: #fafad2;
   color: #ff0080;
+  display: flex;
 }
