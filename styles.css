@@ -1,5 +1,30 @@
-#r-body {
+body {
   background-color: #fafad2;
   color: #ff0080;
   display: flex;
 }
+
+p {
+  color: #333;
+}
+
+article {
+  display: inline-block;
+  width: 50%;
+  float: right;
+  
+}
+
+h1 {
+  padding-left: 35%;
+  font-size: 3em;
+}
+
+img {
+  display: inline;
+}
+
+section.bad_link {
+  display: inline;
+}
+
